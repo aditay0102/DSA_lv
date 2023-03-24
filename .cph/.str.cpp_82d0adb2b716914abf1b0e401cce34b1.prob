@@ -1,0 +1,1 @@
+{"name":"Local: str","url":"d:\\Study\\CPP\\C++\\str.cpp","tests":[{"id":1679565770758,"input":"3\ngksrek\ngeeksforgeeks\nacf\nabcdef\ncdefc\ncodechef","output":"true \ntrue \nfalse\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study\\CPP\\C++\\str.cpp","group":"local","local":true}

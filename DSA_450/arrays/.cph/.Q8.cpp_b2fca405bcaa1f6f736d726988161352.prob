@@ -1,0 +1,1 @@
+{"name":"Local: Q8","url":"d:\\Study\\CPP\\C++\\DSA_450\\arrays\\Q8.cpp","tests":[{"id":1674016781881,"input":"5\n1 2 3 -2 5","output":"9"},{"id":1674018706194,"input":"4\n-1 -2 -3 -4","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study\\CPP\\C++\\DSA_450\\arrays\\Q8.cpp","group":"local","local":true}
